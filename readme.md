@@ -1,3 +1,11 @@
+# GitHub repo QR code
+![GitHub Repo](/qr_codes/QRCode_20260330040837.png "QR code to github repo")
+
+# DockerHub image QR code
+![DockerHub Image](/qr_codes/QRCode_20260330040651.png "QR code to docker hub image")
+
+---
+
 # 📦 Project Setup
 
 ---
